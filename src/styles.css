@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+[disabled] {
+  pointer-events: none;
+  opacity: 0.5
+}
